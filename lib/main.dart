@@ -30,7 +30,7 @@ class _AddTwonumberState extends State<AddTwonumber> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Calculator")),
+      appBar: AppBar(backgroundColor: Colors.black,title: Text("Calculator")),
       body: Column(
         children: [
           Container(
